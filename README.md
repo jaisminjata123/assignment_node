@@ -21,7 +21,9 @@ sudo apt install nodejs
 ### Run locally
 - Browse to the project directory and run the server script. 
 ```sh
-npm start![WhatsApp Image 2023-07-28 at 17 22 19](https://github.com/jaisminjata123/assignment_node/assets/47449986/99d92799-0ca2-43bd-9cc2-4be30895bf2b)
+npm install
+node server
+![WhatsApp Image 2023-07-28 at 17 22 19](https://github.com/jaisminjata123/assignment_node/assets/47449986/99d92799-0ca2-43bd-9cc2-4be30895bf2b)
 
 ```
 ### Local deployment
